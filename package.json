@@ -1,0 +1,18 @@
+{
+  "name": "node-metodoget",
+  "version": "1.0.0",
+  "description": "Lista 1 Apresentada para a matéria de desenvolvimento WEB 4 semestre - FACENS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
